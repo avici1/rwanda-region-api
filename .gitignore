@@ -1,5 +1,7 @@
 # Custom Ingore
 env.py
+api_address.sql
+rwanda-region.sock
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
